@@ -1,4 +1,4 @@
-package mateusz.grodzki.security.Model;
+package mateusz.grodzki.security.model;
 
 import lombok.Data;
 import javax.persistence.*;
